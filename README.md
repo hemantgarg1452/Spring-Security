@@ -7,3 +7,6 @@
 
 2. Logout
 ![Screenshot 2024-08-19 164705](https://github.com/user-attachments/assets/270e572b-4e8e-4e20-9d26-46e9ba6068bc)
+
+# Day-2
+## Database Connection
